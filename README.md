@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amcarvajal
-- 👀 I’m interested in ... Front-End Developer jobs
-- 🌱 I’m currently learning ...React | Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in  Front-End Developer jobs
+- 🌱 I’m currently learning React | Python
+- 💞️ I’m looking to collaborate on a good company and grow with it
 - 📫 How to reach me ... my website: http://migue-carvajal.com/ or my Linkedin: www.linkedin.com/in/miguel-carvajal-gonzalez
 
  
